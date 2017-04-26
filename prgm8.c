@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {
+clrscr();
 int n,i,sum=0;
 printf("enter the value");
 scanf("%d",&n);
